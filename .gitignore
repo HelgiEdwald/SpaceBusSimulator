@@ -1,9 +1,10 @@
-Binaries
-DerivedDataCache
-Intermediate
-Saved
-.vscode
-.vs
+/Binaries/
+/Intermediate/
+/DerivedDataCache/
+/Saved/
+
+.vscode/
+.vs/
 *.VC.db
 *.opensdf
 *.opendb
@@ -12,3 +13,15 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+
+# FMOD user-specific settings
+*.fspro.user
+*.pdb
+
+# Build and temp folders
+/Build/
+/Temp/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
