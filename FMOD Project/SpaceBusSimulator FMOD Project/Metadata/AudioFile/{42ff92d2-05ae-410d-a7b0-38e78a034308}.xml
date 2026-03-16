@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{42ff92d2-05ae-410d-a7b0-38e78a034308}">
+		<property name="assetPath">
+			<value>SBS - Fire SFX.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3d84e10b-7f65-4bd9-a6c9-fb9464dec338}</destination>
+		</relationship>
+	</object>
+</objects>
