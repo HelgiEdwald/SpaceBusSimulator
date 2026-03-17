@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{bca9f1c4-cea6-49eb-9d9a-fb0f6af3dbe2}">
 		<property name="name">
-			<value>SFX - Charcater Use Sound (2)</value>
+			<value>SFX - Player Use Sound (2)</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -72,6 +72,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{05857cd2-53ff-4eac-a104-7b3ebfe19cf4}">
+		<property name="volume">
+			<value>-11</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{8d824ba6-adae-457c-b393-ec945f62042a}</destination>
 		</relationship>
