@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{783c663e-0cca-4f0d-ab1b-950c31ab0a5e}">
+		<property name="assetPath">
+			<value>SBS SFX - Charatcer Use Sound (Character 4).wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.1126666666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3d84e10b-7f65-4bd9-a6c9-fb9464dec338}</destination>
+		</relationship>
+	</object>
+</objects>
