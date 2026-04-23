@@ -316,6 +316,9 @@
 		</relationship>
 	</object>
 	<object class="EventSound" id="{e6c88f97-0371-4ada-98ec-97ccac13fe40}">
+		<property name="color">
+			<value>Red</value>
+		</property>
 		<property name="start">
 			<value>16.410250000000001</value>
 		</property>
@@ -344,6 +347,9 @@
 		</relationship>
 	</object>
 	<object class="EventSound" id="{5d8f4d60-e53f-42d3-9d49-80fc434725a0}">
+		<property name="color">
+			<value>Green</value>
+		</property>
 		<property name="start">
 			<value>16.410250000000001</value>
 		</property>
@@ -372,6 +378,9 @@
 		</relationship>
 	</object>
 	<object class="EventSound" id="{3080ec91-b159-4706-9d9d-410e38d917ad}">
+		<property name="color">
+			<value>Magenta</value>
+		</property>
 		<property name="start">
 			<value>16.410250000000001</value>
 		</property>
@@ -400,6 +409,9 @@
 		</relationship>
 	</object>
 	<object class="EventSound" id="{d54356b5-0d8a-4099-ad46-fdbef61f2fc2}">
+		<property name="color">
+			<value>Cyan</value>
+		</property>
 		<property name="start">
 			<value>16.410250000000001</value>
 		</property>
