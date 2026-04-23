@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="ParameterPreset" id="{ea7b429e-e24f-469e-bb99-cd45f132f718}">
+	<object class="ParameterPreset" id="{d26a82b0-976d-4046-a13a-5118238a4b4b}">
 		<property name="name">
-			<value>Player Track</value>
+			<value>Intensity Level </value>
 		</property>
 		<relationship name="folder">
 			<destination>{be007a7b-95c6-49c1-91ef-05c84dac7238}</destination>
 		</relationship>
 		<relationship name="parameter">
-			<destination>{fbdb79cf-e84e-4e2c-a353-bff98e89903c}</destination>
+			<destination>{0fc5544c-7b3a-442a-850e-18a951a9a7b6}</destination>
 		</relationship>
 	</object>
-	<object class="GameParameter" id="{fbdb79cf-e84e-4e2c-a353-bff98e89903c}">
+	<object class="GameParameter" id="{0fc5544c-7b3a-442a-850e-18a951a9a7b6}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
 		<property name="maximum">
-			<value>4</value>
+			<value>3</value>
 		</property>
 		<property name="isGlobal">
 			<value>true</value>
