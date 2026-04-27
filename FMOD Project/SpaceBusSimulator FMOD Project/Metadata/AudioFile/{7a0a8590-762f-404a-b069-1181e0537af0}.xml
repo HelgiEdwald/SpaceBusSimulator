@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{b50ff894-4b36-41c2-83d9-bcab703c5e8e}">
+	<object class="AudioFile" id="{7a0a8590-762f-404a-b069-1181e0537af0}">
 		<property name="assetPath">
-			<value>SBS Game Music - Non Adaptive Track (117BPM).wav</value>
+			<value>SBS_Game_Music_Stems - Alien Texture Arp.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
@@ -14,7 +14,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>187.12433106575963</value>
+			<value>82.051269841269843</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{3d84e10b-7f65-4bd9-a6c9-fb9464dec338}</destination>
