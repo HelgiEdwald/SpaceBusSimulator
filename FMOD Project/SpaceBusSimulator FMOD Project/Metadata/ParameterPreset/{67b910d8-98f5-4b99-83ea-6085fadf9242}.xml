@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="ParameterPreset" id="{67b910d8-98f5-4b99-83ea-6085fadf9242}">
 		<property name="name">
-			<value>Player 3 Track</value>
+			<value>player3Track</value>
 		</property>
 		<relationship name="folder">
 			<destination>{be007a7b-95c6-49c1-91ef-05c84dac7238}</destination>
