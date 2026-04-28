@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{9e066fa1-df27-4739-bd08-8756c5e576d8}">
+		<property name="assetPath">
+			<value>SBS SFX - Freeze Gun.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3d84e10b-7f65-4bd9-a6c9-fb9464dec338}</destination>
+		</relationship>
+	</object>
+</objects>
