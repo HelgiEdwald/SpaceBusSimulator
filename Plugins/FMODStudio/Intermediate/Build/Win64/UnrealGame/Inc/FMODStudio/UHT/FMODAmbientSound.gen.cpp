@@ -58,19 +58,27 @@ struct Z_Construct_UClass_AFMODAmbientSound_Statics
 	static constexpr UECodeGen_Private::FMetaDataPairParam Class_MetaDataParams[] = {
 		{ "AutoExpandCategories", "Audio" },
 		{ "ClassGroupNames", "Sounds" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** FMOD Ambient Sound.\n*/" },
+#endif
 		{ "HideCategories", "Collision Input" },
 		{ "IncludePath", "FMODAmbientSound.h" },
 		{ "ModuleRelativePath", "Classes/FMODAmbientSound.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "FMOD Ambient Sound." },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_AudioComponent_MetaData[] = {
 		{ "Category", "Sound" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** The Audio component for this actor */" },
+#endif
 		{ "EditInline", "true" },
 		{ "ExposeFunctionCategories", "Sound" },
 		{ "ModuleRelativePath", "Classes/FMODAmbientSound.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "The Audio component for this actor" },
+#endif
 	};
 #endif // WITH_METADATA
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_AudioComponent;
@@ -119,14 +127,14 @@ AFMODAmbientSound::~AFMODAmbientSound() {}
 // ********** End Class AFMODAmbientSound **********************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODAmbientSound_h__Script_FMODStudio_Statics
+struct Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODAmbientSound_h__Script_FMODStudio_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_AFMODAmbientSound, AFMODAmbientSound::StaticClass, TEXT("AFMODAmbientSound"), &Z_Registration_Info_UClass_AFMODAmbientSound, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AFMODAmbientSound), 2652815175U) },
+		{ Z_Construct_UClass_AFMODAmbientSound, AFMODAmbientSound::StaticClass, TEXT("AFMODAmbientSound"), &Z_Registration_Info_UClass_AFMODAmbientSound, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AFMODAmbientSound), 3091544683U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODAmbientSound_h__Script_FMODStudio_1244240164(TEXT("/Script/FMODStudio"),
-	Z_CompiledInDeferFile_FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODAmbientSound_h__Script_FMODStudio_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODAmbientSound_h__Script_FMODStudio_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODAmbientSound_h__Script_FMODStudio_1346620842(TEXT("/Script/FMODStudio"),
+	Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODAmbientSound_h__Script_FMODStudio_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODAmbientSound_h__Script_FMODStudio_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

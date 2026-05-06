@@ -77,15 +77,15 @@ UScriptStruct* Z_Construct_UScriptStruct_FFMODEventControlSectionTemplate()
 // ********** End ScriptStruct FFMODEventControlSectionTemplate ************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlSectionTemplate_h__Script_FMODStudio_Statics
+struct Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlSectionTemplate_h__Script_FMODStudio_Statics
 {
 	static constexpr FStructRegisterCompiledInInfo ScriptStructInfo[] = {
 		{ FFMODEventControlSectionTemplate::StaticStruct, Z_Construct_UScriptStruct_FFMODEventControlSectionTemplate_Statics::NewStructOps, TEXT("FMODEventControlSectionTemplate"), &Z_Registration_Info_UScriptStruct_FFMODEventControlSectionTemplate, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FFMODEventControlSectionTemplate), 1366833620U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlSectionTemplate_h__Script_FMODStudio_2810008732(TEXT("/Script/FMODStudio"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlSectionTemplate_h__Script_FMODStudio_2810008732(TEXT("/Script/FMODStudio"),
 	nullptr, 0,
-	Z_CompiledInDeferFile_FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlSectionTemplate_h__Script_FMODStudio_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlSectionTemplate_h__Script_FMODStudio_Statics::ScriptStructInfo),
+	Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlSectionTemplate_h__Script_FMODStudio_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlSectionTemplate_h__Script_FMODStudio_Statics::ScriptStructInfo),
 	nullptr, 0);
 // ********** End Registration *********************************************************************
 

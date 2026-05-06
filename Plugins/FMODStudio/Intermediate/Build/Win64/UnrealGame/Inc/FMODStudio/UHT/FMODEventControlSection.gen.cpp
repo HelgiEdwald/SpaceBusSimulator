@@ -39,12 +39,16 @@ struct Z_Construct_UEnum_FMODStudio_EFMODEventControlKey_Statics
 {
 #if WITH_METADATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam Enum_MetaDataParams[] = {
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** Defines the types of FMOD event control keys. */" },
+#endif
 		{ "ModuleRelativePath", "Private/Sequencer/FMODEventControlSection.h" },
 		{ "Pause.Name", "EFMODEventControlKey::Pause" },
 		{ "Play.Name", "EFMODEventControlKey::Play" },
 		{ "Stop.Name", "EFMODEventControlKey::Stop" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Defines the types of FMOD event control keys." },
+#endif
 	};
 #endif // WITH_METADATA
 	static constexpr UECodeGen_Private::FEnumeratorParam Enumerators[] = {
@@ -160,15 +164,23 @@ struct Z_Construct_UClass_UFMODEventControlSection_Statics
 {
 #if WITH_METADATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam Class_MetaDataParams[] = {
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** FMOD Event control section */" },
+#endif
 		{ "IncludePath", "Sequencer/FMODEventControlSection.h" },
 		{ "ModuleRelativePath", "Private/Sequencer/FMODEventControlSection.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "FMOD Event control section" },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_ControlKeys_MetaData[] = {
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** Channel containing the event control keys */" },
+#endif
 		{ "ModuleRelativePath", "Private/Sequencer/FMODEventControlSection.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Channel containing the event control keys" },
+#endif
 	};
 #endif // WITH_METADATA
 	static const UECodeGen_Private::FStructPropertyParams NewProp_ControlKeys;
@@ -217,22 +229,22 @@ UFMODEventControlSection::~UFMODEventControlSection() {}
 // ********** End Class UFMODEventControlSection ***************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlSection_h__Script_FMODStudio_Statics
+struct Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlSection_h__Script_FMODStudio_Statics
 {
 	static constexpr FEnumRegisterCompiledInInfo EnumInfo[] = {
-		{ EFMODEventControlKey_StaticEnum, TEXT("EFMODEventControlKey"), &Z_Registration_Info_UEnum_EFMODEventControlKey, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 231776555U) },
+		{ EFMODEventControlKey_StaticEnum, TEXT("EFMODEventControlKey"), &Z_Registration_Info_UEnum_EFMODEventControlKey, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 4285387728U) },
 	};
 	static constexpr FStructRegisterCompiledInInfo ScriptStructInfo[] = {
 		{ FFMODEventControlChannel::StaticStruct, Z_Construct_UScriptStruct_FFMODEventControlChannel_Statics::NewStructOps, TEXT("FMODEventControlChannel"), &Z_Registration_Info_UScriptStruct_FFMODEventControlChannel, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FFMODEventControlChannel), 801298777U) },
 	};
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_UFMODEventControlSection, UFMODEventControlSection::StaticClass, TEXT("UFMODEventControlSection"), &Z_Registration_Info_UClass_UFMODEventControlSection, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UFMODEventControlSection), 1373134503U) },
+		{ Z_Construct_UClass_UFMODEventControlSection, UFMODEventControlSection::StaticClass, TEXT("UFMODEventControlSection"), &Z_Registration_Info_UClass_UFMODEventControlSection, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UFMODEventControlSection), 1216237236U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlSection_h__Script_FMODStudio_3382263181(TEXT("/Script/FMODStudio"),
-	Z_CompiledInDeferFile_FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlSection_h__Script_FMODStudio_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlSection_h__Script_FMODStudio_Statics::ClassInfo),
-	Z_CompiledInDeferFile_FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlSection_h__Script_FMODStudio_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlSection_h__Script_FMODStudio_Statics::ScriptStructInfo),
-	Z_CompiledInDeferFile_FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlSection_h__Script_FMODStudio_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlSection_h__Script_FMODStudio_Statics::EnumInfo));
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlSection_h__Script_FMODStudio_504652162(TEXT("/Script/FMODStudio"),
+	Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlSection_h__Script_FMODStudio_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlSection_h__Script_FMODStudio_Statics::ClassInfo),
+	Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlSection_h__Script_FMODStudio_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlSection_h__Script_FMODStudio_Statics::ScriptStructInfo),
+	Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlSection_h__Script_FMODStudio_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlSection_h__Script_FMODStudio_Statics::EnumInfo));
 // ********** End Registration *********************************************************************
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

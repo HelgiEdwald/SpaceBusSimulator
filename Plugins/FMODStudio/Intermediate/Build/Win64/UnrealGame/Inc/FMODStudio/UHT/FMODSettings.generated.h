@@ -17,7 +17,7 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin ScriptStruct FCustomPoolSizes **************************************************
-#define FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_112_GENERATED_BODY \
+#define FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_112_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FCustomPoolSizes_Statics; \
 	FMODSTUDIO_API static class UScriptStruct* StaticStruct();
 
@@ -26,7 +26,7 @@ struct FCustomPoolSizes;
 // ********** End ScriptStruct FCustomPoolSizes ****************************************************
 
 // ********** Begin ScriptStruct FFMODPlatformSettings *********************************************
-#define FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_140_GENERATED_BODY \
+#define FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_140_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FFMODPlatformSettings_Statics; \
 	FMODSTUDIO_API static class UScriptStruct* StaticStruct();
 
@@ -35,7 +35,7 @@ struct FFMODPlatformSettings;
 // ********** End ScriptStruct FFMODPlatformSettings ***********************************************
 
 // ********** Begin ScriptStruct FFMODProjectLocale ************************************************
-#define FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_189_GENERATED_BODY \
+#define FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_189_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FFMODProjectLocale_Statics; \
 	FMODSTUDIO_API static class UScriptStruct* StaticStruct();
 
@@ -46,7 +46,7 @@ struct FFMODProjectLocale;
 // ********** Begin Class UFMODSettings ************************************************************
 FMODSTUDIO_API UClass* Z_Construct_UClass_UFMODSettings_NoRegister();
 
-#define FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_213_INCLASS \
+#define FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_213_INCLASS \
 private: \
 	static void StaticRegisterNativesUFMODSettings(); \
 	friend struct Z_Construct_UClass_UFMODSettings_Statics; \
@@ -59,7 +59,7 @@ public: \
 
 
 
-#define FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_213_STANDARD_CONSTRUCTORS \
+#define FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_213_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UFMODSettings(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UFMODSettings) \
@@ -71,12 +71,12 @@ public: \
 	NO_API virtual ~UFMODSettings();
 
 
-#define FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_210_PROLOG
-#define FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_213_GENERATED_BODY_LEGACY \
+#define FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_210_PROLOG
+#define FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_213_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_213_INCLASS \
-	FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_213_STANDARD_CONSTRUCTORS \
+	FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_213_INCLASS \
+	FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_213_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -86,7 +86,7 @@ class UFMODSettings;
 // ********** End Class UFMODSettings **************************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h
+#define CURRENT_FILE_ID FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h
 
 // ********** Begin Enum EFMODLogging **************************************************************
 #define FOREACH_ENUM_EFMODLOGGING(op) \

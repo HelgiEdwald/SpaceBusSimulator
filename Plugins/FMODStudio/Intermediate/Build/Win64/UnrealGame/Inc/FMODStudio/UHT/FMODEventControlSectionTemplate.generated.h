@@ -17,7 +17,7 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin ScriptStruct FFMODEventControlSectionTemplate **********************************
-#define FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlSectionTemplate_h_14_GENERATED_BODY \
+#define FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlSectionTemplate_h_14_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FFMODEventControlSectionTemplate_Statics; \
 	FMODSTUDIO_API static class UScriptStruct* StaticStruct(); \
 	typedef FMovieSceneEvalTemplate Super;
@@ -27,6 +27,6 @@ struct FFMODEventControlSectionTemplate;
 // ********** End ScriptStruct FFMODEventControlSectionTemplate ************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlSectionTemplate_h
+#define CURRENT_FILE_ID FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlSectionTemplate_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

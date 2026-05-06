@@ -57,16 +57,24 @@ struct Z_Construct_UClass_UFMODEventControlTrack_Statics
 {
 #if WITH_METADATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam Class_MetaDataParams[] = {
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** Handles control of an FMOD Event */" },
+#endif
 		{ "IncludePath", "Sequencer/FMODEventControlTrack.h" },
 		{ "ModuleRelativePath", "Private/Sequencer/FMODEventControlTrack.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Handles control of an FMOD Event" },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_ControlSections_MetaData[] = {
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** List of all event control sections. */" },
+#endif
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "Private/Sequencer/FMODEventControlTrack.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "List of all event control sections." },
+#endif
 	};
 #endif // WITH_METADATA
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_ControlSections_Inner;
@@ -122,14 +130,14 @@ UFMODEventControlTrack::~UFMODEventControlTrack() {}
 // ********** End Class UFMODEventControlTrack *****************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlTrack_h__Script_FMODStudio_Statics
+struct Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlTrack_h__Script_FMODStudio_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_UFMODEventControlTrack, UFMODEventControlTrack::StaticClass, TEXT("UFMODEventControlTrack"), &Z_Registration_Info_UClass_UFMODEventControlTrack, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UFMODEventControlTrack), 1366645143U) },
+		{ Z_Construct_UClass_UFMODEventControlTrack, UFMODEventControlTrack::StaticClass, TEXT("UFMODEventControlTrack"), &Z_Registration_Info_UClass_UFMODEventControlTrack, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UFMODEventControlTrack), 795614087U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlTrack_h__Script_FMODStudio_3422670948(TEXT("/Script/FMODStudio"),
-	Z_CompiledInDeferFile_FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlTrack_h__Script_FMODStudio_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlTrack_h__Script_FMODStudio_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlTrack_h__Script_FMODStudio_877840447(TEXT("/Script/FMODStudio"),
+	Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlTrack_h__Script_FMODStudio_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventControlTrack_h__Script_FMODStudio_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

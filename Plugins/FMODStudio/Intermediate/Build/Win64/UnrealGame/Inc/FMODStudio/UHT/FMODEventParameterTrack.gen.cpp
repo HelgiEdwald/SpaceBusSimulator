@@ -57,16 +57,24 @@ struct Z_Construct_UClass_UFMODEventParameterTrack_Statics
 {
 #if WITH_METADATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam Class_MetaDataParams[] = {
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** Handles manipulation of event parameters in a movie scene. */" },
+#endif
 		{ "IncludePath", "Sequencer/FMODEventParameterTrack.h" },
 		{ "ModuleRelativePath", "Private/Sequencer/FMODEventParameterTrack.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Handles manipulation of event parameters in a movie scene." },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_Sections_MetaData[] = {
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** The sections owned by this track. */" },
+#endif
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "Private/Sequencer/FMODEventParameterTrack.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "The sections owned by this track." },
+#endif
 	};
 #endif // WITH_METADATA
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_Sections_Inner;
@@ -122,14 +130,14 @@ UFMODEventParameterTrack::~UFMODEventParameterTrack() {}
 // ********** End Class UFMODEventParameterTrack ***************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventParameterTrack_h__Script_FMODStudio_Statics
+struct Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventParameterTrack_h__Script_FMODStudio_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_UFMODEventParameterTrack, UFMODEventParameterTrack::StaticClass, TEXT("UFMODEventParameterTrack"), &Z_Registration_Info_UClass_UFMODEventParameterTrack, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UFMODEventParameterTrack), 2380527565U) },
+		{ Z_Construct_UClass_UFMODEventParameterTrack, UFMODEventParameterTrack::StaticClass, TEXT("UFMODEventParameterTrack"), &Z_Registration_Info_UClass_UFMODEventParameterTrack, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UFMODEventParameterTrack), 1527385479U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventParameterTrack_h__Script_FMODStudio_555867992(TEXT("/Script/FMODStudio"),
-	Z_CompiledInDeferFile_FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventParameterTrack_h__Script_FMODStudio_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventParameterTrack_h__Script_FMODStudio_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventParameterTrack_h__Script_FMODStudio_579374315(TEXT("/Script/FMODStudio"),
+	Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventParameterTrack_h__Script_FMODStudio_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_Sequencer_FMODEventParameterTrack_h__Script_FMODStudio_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

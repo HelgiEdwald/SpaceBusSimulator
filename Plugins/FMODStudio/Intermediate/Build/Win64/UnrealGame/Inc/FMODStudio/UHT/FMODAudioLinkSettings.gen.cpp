@@ -65,26 +65,42 @@ struct Z_Construct_UClass_UFMODAudioLinkSettings_Statics
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_bShouldClearBufferOnReceipt_MetaData[] = {
 		{ "Category", "default" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** If this is set, the receiving code will clear the buffer after it's read, so it's not rendered by Unreal. Only applies if running both renderers at once.  */" },
+#endif
 		{ "ModuleRelativePath", "" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "If this is set, the receiving code will clear the buffer after it's read, so it's not rendered by Unreal. Only applies if running both renderers at once." },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_ProducerToConsumerBufferRatio_MetaData[] = {
 		{ "Category", "default" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** This is the ratio of producer to consumer buffer size, 2.0 means its twice as big as the consumer buffer.  */" },
+#endif
 		{ "ModuleRelativePath", "" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "This is the ratio of producer to consumer buffer size, 2.0 means its twice as big as the consumer buffer." },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_InitialSilenceFillRatio_MetaData[] = {
 		{ "Category", "default" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** Ratio of initial buffer to fill with silence ahead of consumption. Adjusting this can resolve starvation at the cost of added latency. */" },
+#endif
 		{ "ModuleRelativePath", "" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Ratio of initial buffer to fill with silence ahead of consumption. Adjusting this can resolve starvation at the cost of added latency." },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_LinkEventResolved_MetaData[] = {
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** Once the SoftObjectReference has been resolved, attach the reference here so it's owned. */" },
+#endif
 		{ "ModuleRelativePath", "" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Once the SoftObjectReference has been resolved, attach the reference here so it's owned." },
+#endif
 	};
 #endif // WITH_METADATA
 	static const UECodeGen_Private::FSoftObjectPropertyParams NewProp_LinkEvent;
@@ -151,14 +167,14 @@ UFMODAudioLinkSettings::~UFMODAudioLinkSettings() {}
 // ********** End Class UFMODAudioLinkSettings *****************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODAudioLink_Public_FMODAudioLinkSettings_h__Script_FMODStudio_Statics
+struct Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODAudioLink_Public_FMODAudioLinkSettings_h__Script_FMODStudio_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_UFMODAudioLinkSettings, UFMODAudioLinkSettings::StaticClass, TEXT("UFMODAudioLinkSettings"), &Z_Registration_Info_UClass_UFMODAudioLinkSettings, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UFMODAudioLinkSettings), 2066051021U) },
+		{ Z_Construct_UClass_UFMODAudioLinkSettings, UFMODAudioLinkSettings::StaticClass, TEXT("UFMODAudioLinkSettings"), &Z_Registration_Info_UClass_UFMODAudioLinkSettings, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UFMODAudioLinkSettings), 1894093146U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODAudioLink_Public_FMODAudioLinkSettings_h__Script_FMODStudio_2418636549(TEXT("/Script/FMODStudio"),
-	Z_CompiledInDeferFile_FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODAudioLink_Public_FMODAudioLinkSettings_h__Script_FMODStudio_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_BuildAgent1_work_c1c3f17eb167c494_build_staging_FMODStudio_HostProject_Plugins_FMODStudio_Source_FMODAudioLink_Public_FMODAudioLinkSettings_h__Script_FMODStudio_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODAudioLink_Public_FMODAudioLinkSettings_h__Script_FMODStudio_324646078(TEXT("/Script/FMODStudio"),
+	Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODAudioLink_Public_FMODAudioLinkSettings_h__Script_FMODStudio_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODAudioLink_Public_FMODAudioLinkSettings_h__Script_FMODStudio_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************
