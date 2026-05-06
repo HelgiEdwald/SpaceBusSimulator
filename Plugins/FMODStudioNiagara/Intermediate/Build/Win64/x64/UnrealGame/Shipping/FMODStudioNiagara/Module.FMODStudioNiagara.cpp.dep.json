@@ -6,7 +6,7 @@
         "PCH": "c:\\users\\helgi\\documents\\projects\\unreal projects\\clone test\\spacebussimulator\\intermediate\\build\\win64\\x64\\coop5_6test\\shipping\\engine\\sharedpch.engine.project.valapi.valexpapi.cpp20.h.pch",
         "Includes": [
             "c:\\users\\helgi\\documents\\projects\\unreal projects\\clone test\\spacebussimulator\\plugins\\fmodstudioniagara\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\fmodstudioniagara\\definitions.fmodstudioniagara.h",
-            "c:\\users\\helgi\\documents\\projects\\unreal projects\\clone test\\spacebussimulator\\plugins\\fmodstudioniagara\\source\\fmodstudioniagara\\private\\fmodniagaraeventplayer.cpp",
+            "c:\\users\\helgi\\documents\\projects\\unreal projects\\clone test\\spacebussimulator\\plugins\\fmodstudioniagara\\intermediate\\build\\win64\\unrealgame\\inc\\fmodstudioniagara\\uht\\fmodniagaraeventplayer.gen.cpp",
             "c:\\users\\helgi\\documents\\projects\\unreal projects\\clone test\\spacebussimulator\\plugins\\fmodstudioniagara\\source\\fmodstudioniagara\\public\\fmodniagaraeventplayer.h",
             "c:\\users\\helgi\\documents\\projects\\unreal projects\\clone test\\spacebussimulator\\plugins\\fmodstudio\\source\\fmodstudio\\classes\\fmodevent.h",
             "c:\\users\\helgi\\documents\\projects\\unreal projects\\clone test\\spacebussimulator\\plugins\\fmodstudio\\source\\fmodstudio\\classes\\fmodasset.h",
@@ -135,6 +135,8 @@
             "c:\\program files\\epic games\\ue_5.6\\engine\\plugins\\fx\\niagara\\intermediate\\build\\win64\\unrealgame\\inc\\niagara\\uht\\niagarasystem.generated.h",
             "c:\\users\\helgi\\documents\\projects\\unreal projects\\clone test\\spacebussimulator\\plugins\\fmodstudioniagara\\source\\fmodstudioniagara\\public\\fmodstudioniagara.h",
             "c:\\users\\helgi\\documents\\projects\\unreal projects\\clone test\\spacebussimulator\\plugins\\fmodstudioniagara\\intermediate\\build\\win64\\unrealgame\\inc\\fmodstudioniagara\\uht\\fmodniagaraeventplayer.generated.h",
+            "c:\\users\\helgi\\documents\\projects\\unreal projects\\clone test\\spacebussimulator\\plugins\\fmodstudioniagara\\intermediate\\build\\win64\\unrealgame\\inc\\fmodstudioniagara\\uht\\fmodstudioniagara.init.gen.cpp",
+            "c:\\users\\helgi\\documents\\projects\\unreal projects\\clone test\\spacebussimulator\\plugins\\fmodstudioniagara\\source\\fmodstudioniagara\\private\\fmodniagaraeventplayer.cpp",
             "c:\\users\\helgi\\documents\\projects\\unreal projects\\clone test\\spacebussimulator\\plugins\\fmodstudio\\source\\fmodstudio\\classes\\fmodblueprintstatics.h",
             "c:\\users\\helgi\\documents\\projects\\unreal projects\\clone test\\spacebussimulator\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealgame\\inc\\fmodstudio\\uht\\fmodblueprintstatics.generated.h",
             "c:\\program files\\epic games\\ue_5.6\\engine\\plugins\\fx\\niagara\\source\\niagaracore\\public\\niagaracustomversion.h",
