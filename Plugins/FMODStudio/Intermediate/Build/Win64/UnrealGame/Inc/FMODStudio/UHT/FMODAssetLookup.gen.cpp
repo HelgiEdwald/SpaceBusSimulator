@@ -83,15 +83,15 @@ UScriptStruct* Z_Construct_UScriptStruct_FFMODAssetLookupRow()
 // ********** End ScriptStruct FFMODAssetLookupRow *************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_FMODAssetLookup_h__Script_FMODStudio_Statics
+struct Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_FMODAssetLookup_h__Script_FMODStudio_Statics
 {
 	static constexpr FStructRegisterCompiledInInfo ScriptStructInfo[] = {
 		{ FFMODAssetLookupRow::StaticStruct, Z_Construct_UScriptStruct_FFMODAssetLookupRow_Statics::NewStructOps, TEXT("FMODAssetLookupRow"), &Z_Registration_Info_UScriptStruct_FFMODAssetLookupRow, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FFMODAssetLookupRow), 2870559023U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_FMODAssetLookup_h__Script_FMODStudio_2344074399(TEXT("/Script/FMODStudio"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_FMODAssetLookup_h__Script_FMODStudio_2344074399(TEXT("/Script/FMODStudio"),
 	nullptr, 0,
-	Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_FMODAssetLookup_h__Script_FMODStudio_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_FMODAssetLookup_h__Script_FMODStudio_Statics::ScriptStructInfo),
+	Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_FMODAssetLookup_h__Script_FMODStudio_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_helgi_Documents_Projects_Unreal_Projects_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_FMODAssetLookup_h__Script_FMODStudio_Statics::ScriptStructInfo),
 	nullptr, 0);
 // ********** End Registration *********************************************************************
 

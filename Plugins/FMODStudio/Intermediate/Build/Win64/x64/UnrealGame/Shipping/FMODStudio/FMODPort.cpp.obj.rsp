@@ -1,12 +1,12 @@
-"C:/Users/helgi/Documents/Projects/Unreal Projects/clone test/SpaceBusSimulator/Plugins/FMODStudio/Source/FMODStudio/Private/FMODPort.cpp"
-@"C:/Users/helgi/Documents/Projects/Unreal Projects/clone test/SpaceBusSimulator/Plugins/FMODStudio/Intermediate/Build/Win64/x64/UnrealGame/Shipping/FMODStudio/FMODStudio.Shared.rsp"
-/FI"C:/Users/helgi/Documents/Projects/Unreal Projects/clone test/SpaceBusSimulator/Plugins/FMODStudio/Intermediate/Build/Win64/x64/UnrealGame/Shipping/FMODStudio/PCH.FMODStudio.h"
-/FI"C:/Users/helgi/Documents/Projects/Unreal Projects/clone test/SpaceBusSimulator/Plugins/FMODStudio/Intermediate/Build/Win64/x64/UnrealGame/Shipping/FMODStudio/Definitions.h"
-/Yu"C:/Users/helgi/Documents/Projects/Unreal Projects/clone test/SpaceBusSimulator/Plugins/FMODStudio/Intermediate/Build/Win64/x64/UnrealGame/Shipping/FMODStudio/PCH.FMODStudio.h"
-/Fp"C:/Users/helgi/Documents/Projects/Unreal Projects/clone test/SpaceBusSimulator/Plugins/FMODStudio/Intermediate/Build/Win64/x64/UnrealGame/Shipping/FMODStudio/PCH.FMODStudio.h.pch"
-/Fo"C:/Users/helgi/Documents/Projects/Unreal Projects/clone test/SpaceBusSimulator/Plugins/FMODStudio/Intermediate/Build/Win64/x64/UnrealGame/Shipping/FMODStudio/FMODPort.cpp.obj"
-/experimental:log "C:/Users/helgi/Documents/Projects/Unreal Projects/clone test/SpaceBusSimulator/Plugins/FMODStudio/Intermediate/Build/Win64/x64/UnrealGame/Shipping/FMODStudio/FMODPort.cpp.sarif"
-/sourceDependencies "C:/Users/helgi/Documents/Projects/Unreal Projects/clone test/SpaceBusSimulator/Plugins/FMODStudio/Intermediate/Build/Win64/x64/UnrealGame/Shipping/FMODStudio/FMODPort.cpp.dep.json"
+"C:/Users/helgi/Documents/Projects/Unreal Projects/SpaceBusSimulator/Plugins/FMODStudio/Source/FMODStudio/Private/FMODPort.cpp"
+@"C:/Users/helgi/Documents/Projects/Unreal Projects/SpaceBusSimulator/Plugins/FMODStudio/Intermediate/Build/Win64/x64/UnrealGame/Shipping/FMODStudio/FMODStudio.Shared.rsp"
+/FI"C:/Users/helgi/Documents/Projects/Unreal Projects/SpaceBusSimulator/Plugins/FMODStudio/Intermediate/Build/Win64/x64/UnrealGame/Shipping/FMODStudio/PCH.FMODStudio.h"
+/FI"C:/Users/helgi/Documents/Projects/Unreal Projects/SpaceBusSimulator/Plugins/FMODStudio/Intermediate/Build/Win64/x64/UnrealGame/Shipping/FMODStudio/Definitions.h"
+/Yu"C:/Users/helgi/Documents/Projects/Unreal Projects/SpaceBusSimulator/Plugins/FMODStudio/Intermediate/Build/Win64/x64/UnrealGame/Shipping/FMODStudio/PCH.FMODStudio.h"
+/Fp"C:/Users/helgi/Documents/Projects/Unreal Projects/SpaceBusSimulator/Plugins/FMODStudio/Intermediate/Build/Win64/x64/UnrealGame/Shipping/FMODStudio/PCH.FMODStudio.h.pch"
+/Fo"C:/Users/helgi/Documents/Projects/Unreal Projects/SpaceBusSimulator/Plugins/FMODStudio/Intermediate/Build/Win64/x64/UnrealGame/Shipping/FMODStudio/FMODPort.cpp.obj"
+/experimental:log "C:/Users/helgi/Documents/Projects/Unreal Projects/SpaceBusSimulator/Plugins/FMODStudio/Intermediate/Build/Win64/x64/UnrealGame/Shipping/FMODStudio/FMODPort.cpp.sarif"
+/sourceDependencies "C:/Users/helgi/Documents/Projects/Unreal Projects/SpaceBusSimulator/Plugins/FMODStudio/Intermediate/Build/Win64/x64/UnrealGame/Shipping/FMODStudio/FMODPort.cpp.dep.json"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

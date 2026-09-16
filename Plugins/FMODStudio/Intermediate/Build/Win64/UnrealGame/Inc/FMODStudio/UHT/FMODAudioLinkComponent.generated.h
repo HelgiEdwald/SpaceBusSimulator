@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 // ********** Begin Class UFMODAudioLinkComponent **************************************************
 FMODSTUDIO_API UClass* Z_Construct_UClass_UFMODAudioLinkComponent_NoRegister();
 
-#define FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODAudioLink_Public_FMODAudioLinkComponent_h_17_INCLASS_NO_PURE_DECLS \
+#define FID_Users_helgi_Documents_Projects_Unreal_Projects_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODAudioLink_Public_FMODAudioLinkComponent_h_17_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUFMODAudioLinkComponent(); \
 	friend struct Z_Construct_UClass_UFMODAudioLinkComponent_Statics; \
@@ -31,7 +31,7 @@ public: \
 	virtual UObject* _getUObject() const override { return const_cast<UFMODAudioLinkComponent*>(this); }
 
 
-#define FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODAudioLink_Public_FMODAudioLinkComponent_h_17_ENHANCED_CONSTRUCTORS \
+#define FID_Users_helgi_Documents_Projects_Unreal_Projects_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODAudioLink_Public_FMODAudioLinkComponent_h_17_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UFMODAudioLinkComponent(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -43,12 +43,12 @@ public: \
 	NO_API virtual ~UFMODAudioLinkComponent();
 
 
-#define FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODAudioLink_Public_FMODAudioLinkComponent_h_14_PROLOG
-#define FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODAudioLink_Public_FMODAudioLinkComponent_h_17_GENERATED_BODY \
+#define FID_Users_helgi_Documents_Projects_Unreal_Projects_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODAudioLink_Public_FMODAudioLinkComponent_h_14_PROLOG
+#define FID_Users_helgi_Documents_Projects_Unreal_Projects_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODAudioLink_Public_FMODAudioLinkComponent_h_17_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODAudioLink_Public_FMODAudioLinkComponent_h_17_INCLASS_NO_PURE_DECLS \
-	FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODAudioLink_Public_FMODAudioLinkComponent_h_17_ENHANCED_CONSTRUCTORS \
+	FID_Users_helgi_Documents_Projects_Unreal_Projects_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODAudioLink_Public_FMODAudioLinkComponent_h_17_INCLASS_NO_PURE_DECLS \
+	FID_Users_helgi_Documents_Projects_Unreal_Projects_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODAudioLink_Public_FMODAudioLinkComponent_h_17_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -58,6 +58,6 @@ class UFMODAudioLinkComponent;
 // ********** End Class UFMODAudioLinkComponent ****************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODAudioLink_Public_FMODAudioLinkComponent_h
+#define CURRENT_FILE_ID FID_Users_helgi_Documents_Projects_Unreal_Projects_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODAudioLink_Public_FMODAudioLinkComponent_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

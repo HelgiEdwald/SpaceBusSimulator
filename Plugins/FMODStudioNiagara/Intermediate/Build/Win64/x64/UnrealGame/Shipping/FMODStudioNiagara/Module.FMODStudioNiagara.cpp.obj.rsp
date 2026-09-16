@@ -1,12 +1,12 @@
-"C:/Users/helgi/Documents/Projects/Unreal Projects/clone test/SpaceBusSimulator/Plugins/FMODStudioNiagara/Intermediate/Build/Win64/x64/UnrealGame/Shipping/FMODStudioNiagara/Module.FMODStudioNiagara.cpp"
-@"C:/Users/helgi/Documents/Projects/Unreal Projects/clone test/SpaceBusSimulator/Plugins/FMODStudioNiagara/Intermediate/Build/Win64/x64/UnrealGame/Shipping/FMODStudioNiagara/FMODStudioNiagara.Shared.rsp"
-/FI"C:/Users/helgi/Documents/Projects/Unreal Projects/clone test/SpaceBusSimulator/Intermediate/Build/Win64/x64/CoOp5_6Test/Shipping/Engine/SharedPCH.Engine.Project.ValApi.ValExpApi.Cpp20.h"
-/FI"C:/Users/helgi/Documents/Projects/Unreal Projects/clone test/SpaceBusSimulator/Plugins/FMODStudioNiagara/Intermediate/Build/Win64/x64/UnrealGame/Shipping/FMODStudioNiagara/Definitions.FMODStudioNiagara.h"
-/Yu"C:/Users/helgi/Documents/Projects/Unreal Projects/clone test/SpaceBusSimulator/Intermediate/Build/Win64/x64/CoOp5_6Test/Shipping/Engine/SharedPCH.Engine.Project.ValApi.ValExpApi.Cpp20.h"
-/Fp"C:/Users/helgi/Documents/Projects/Unreal Projects/clone test/SpaceBusSimulator/Intermediate/Build/Win64/x64/CoOp5_6Test/Shipping/Engine/SharedPCH.Engine.Project.ValApi.ValExpApi.Cpp20.h.pch"
-/Fo"C:/Users/helgi/Documents/Projects/Unreal Projects/clone test/SpaceBusSimulator/Plugins/FMODStudioNiagara/Intermediate/Build/Win64/x64/UnrealGame/Shipping/FMODStudioNiagara/Module.FMODStudioNiagara.cpp.obj"
-/experimental:log "C:/Users/helgi/Documents/Projects/Unreal Projects/clone test/SpaceBusSimulator/Plugins/FMODStudioNiagara/Intermediate/Build/Win64/x64/UnrealGame/Shipping/FMODStudioNiagara/Module.FMODStudioNiagara.cpp.sarif"
-/sourceDependencies "C:/Users/helgi/Documents/Projects/Unreal Projects/clone test/SpaceBusSimulator/Plugins/FMODStudioNiagara/Intermediate/Build/Win64/x64/UnrealGame/Shipping/FMODStudioNiagara/Module.FMODStudioNiagara.cpp.dep.json"
+"C:/Users/helgi/Documents/Projects/Unreal Projects/SpaceBusSimulator/Plugins/FMODStudioNiagara/Intermediate/Build/Win64/x64/UnrealGame/Shipping/FMODStudioNiagara/Module.FMODStudioNiagara.cpp"
+@"C:/Users/helgi/Documents/Projects/Unreal Projects/SpaceBusSimulator/Plugins/FMODStudioNiagara/Intermediate/Build/Win64/x64/UnrealGame/Shipping/FMODStudioNiagara/FMODStudioNiagara.Shared.rsp"
+/FI"C:/Users/helgi/Documents/Projects/Unreal Projects/SpaceBusSimulator/Intermediate/Build/Win64/x64/CoOp5_6Test/Shipping/Engine/SharedPCH.Engine.Project.ValApi.ValExpApi.Cpp20.h"
+/FI"C:/Users/helgi/Documents/Projects/Unreal Projects/SpaceBusSimulator/Plugins/FMODStudioNiagara/Intermediate/Build/Win64/x64/UnrealGame/Shipping/FMODStudioNiagara/Definitions.FMODStudioNiagara.h"
+/Yu"C:/Users/helgi/Documents/Projects/Unreal Projects/SpaceBusSimulator/Intermediate/Build/Win64/x64/CoOp5_6Test/Shipping/Engine/SharedPCH.Engine.Project.ValApi.ValExpApi.Cpp20.h"
+/Fp"C:/Users/helgi/Documents/Projects/Unreal Projects/SpaceBusSimulator/Intermediate/Build/Win64/x64/CoOp5_6Test/Shipping/Engine/SharedPCH.Engine.Project.ValApi.ValExpApi.Cpp20.h.pch"
+/Fo"C:/Users/helgi/Documents/Projects/Unreal Projects/SpaceBusSimulator/Plugins/FMODStudioNiagara/Intermediate/Build/Win64/x64/UnrealGame/Shipping/FMODStudioNiagara/Module.FMODStudioNiagara.cpp.obj"
+/experimental:log "C:/Users/helgi/Documents/Projects/Unreal Projects/SpaceBusSimulator/Plugins/FMODStudioNiagara/Intermediate/Build/Win64/x64/UnrealGame/Shipping/FMODStudioNiagara/Module.FMODStudioNiagara.cpp.sarif"
+/sourceDependencies "C:/Users/helgi/Documents/Projects/Unreal Projects/SpaceBusSimulator/Plugins/FMODStudioNiagara/Intermediate/Build/Win64/x64/UnrealGame/Shipping/FMODStudioNiagara/Module.FMODStudioNiagara.cpp.dep.json"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

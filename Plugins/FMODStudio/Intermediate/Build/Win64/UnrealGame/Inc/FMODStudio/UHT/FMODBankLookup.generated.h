@@ -17,7 +17,7 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin ScriptStruct FFMODLocalizedBankRow *********************************************
-#define FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h_12_GENERATED_BODY \
+#define FID_Users_helgi_Documents_Projects_Unreal_Projects_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h_12_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FFMODLocalizedBankRow_Statics; \
 	static class UScriptStruct* StaticStruct(); \
 	typedef FTableRowBase Super;
@@ -27,7 +27,7 @@ struct FFMODLocalizedBankRow;
 // ********** End ScriptStruct FFMODLocalizedBankRow ***********************************************
 
 // ********** Begin ScriptStruct FFMODLocalizedBankTable *******************************************
-#define FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h_20_GENERATED_BODY \
+#define FID_Users_helgi_Documents_Projects_Unreal_Projects_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h_20_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FFMODLocalizedBankTable_Statics; \
 	static class UScriptStruct* StaticStruct(); \
 	typedef FTableRowBase Super;
@@ -39,7 +39,7 @@ struct FFMODLocalizedBankTable;
 // ********** Begin Class UFMODBankLookup **********************************************************
 FMODSTUDIO_API UClass* Z_Construct_UClass_UFMODBankLookup_NoRegister();
 
-#define FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h_28_INCLASS \
+#define FID_Users_helgi_Documents_Projects_Unreal_Projects_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h_28_INCLASS \
 private: \
 	static void StaticRegisterNativesUFMODBankLookup(); \
 	friend struct Z_Construct_UClass_UFMODBankLookup_Statics; \
@@ -50,7 +50,7 @@ public: \
 	DECLARE_SERIALIZER(UFMODBankLookup)
 
 
-#define FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h_28_STANDARD_CONSTRUCTORS \
+#define FID_Users_helgi_Documents_Projects_Unreal_Projects_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h_28_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UFMODBankLookup(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UFMODBankLookup) \
@@ -62,12 +62,12 @@ public: \
 	NO_API virtual ~UFMODBankLookup();
 
 
-#define FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h_25_PROLOG
-#define FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h_28_GENERATED_BODY_LEGACY \
+#define FID_Users_helgi_Documents_Projects_Unreal_Projects_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h_25_PROLOG
+#define FID_Users_helgi_Documents_Projects_Unreal_Projects_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h_28_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h_28_INCLASS \
-	FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h_28_STANDARD_CONSTRUCTORS \
+	FID_Users_helgi_Documents_Projects_Unreal_Projects_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h_28_INCLASS \
+	FID_Users_helgi_Documents_Projects_Unreal_Projects_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h_28_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -77,6 +77,6 @@ class UFMODBankLookup;
 // ********** End Class UFMODBankLookup ************************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_helgi_Documents_Projects_Unreal_Projects_clone_test_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h
+#define CURRENT_FILE_ID FID_Users_helgi_Documents_Projects_Unreal_Projects_SpaceBusSimulator_Plugins_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
