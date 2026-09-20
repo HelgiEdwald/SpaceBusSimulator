@@ -148,7 +148,7 @@
 /I "C:/Users/helgi/Documents/Projects/Unreal Projects/SpaceBusSimulator/Plugins/FMODStudioNiagara/Intermediate/Build/Win64/UnrealGame/Inc/FMODStudioNiagara/UHT"
 /I "C:/Users/helgi/Documents/Projects/Unreal Projects/SpaceBusSimulator/Plugins/FMODStudioNiagara/Source"
 /I "C:/Users/helgi/Documents/Projects/Unreal Projects/SpaceBusSimulator/Plugins/FMODStudioNiagara/Source/FMODStudioNiagara/Public"
-/I "C:/Users/helgi/Documents/Projects/Unreal Projects/SpaceBusSimulator/Intermediate/Build/Win64/x64/CoOp5_6Test/Shipping/Engine"
+/I "C:/Users/helgi/Documents/Projects/Unreal Projects/SpaceBusSimulator/Intermediate/Build/Win64/x64/SpaceBusSimulator/Shipping/Engine"
 /external:W0
 /external:I "ThirdParty/GuidelinesSupportLibrary/GSL-1144/include"
 /external:I "ThirdParty/AtomicQueue"
